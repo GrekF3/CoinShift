@@ -1,4 +1,4 @@
-# Exchange Asset Converter
+# CoinShift
 
 A desktop utility for viewing account assets and converting a configured balance between supported currencies.
 
