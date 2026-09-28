@@ -1,0 +1,31 @@
+__pycache__/
+*.py[cod]
+config.py
+.env
+.env.*
+# Local configuration and runtime data
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+/env/
+__pycache__/
+*.py[cod]
+*.db
+*.sqlite
+*.sqlite3
+*.log
+media/
+uploads/
+
+# Frontend build state
+node_modules/
+.next/
+coverage/
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
